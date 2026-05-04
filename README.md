@@ -35,11 +35,11 @@ Me enfoco en construir soluciones eficientes, escalables y orientadas a resultad
 <h2> Tech Stack</h2>
 
 <p>
-<img src="https://skillicons.dev/icons?i=js,python,java,cs,nodejs,spring,html,css,git,github" />
+<img src="https://skillicons.dev/icons?i=js,python,cs,nodejs,spring,html,css,git,github" />
 </p>
 
 <ul>
-  <li><strong>Lenguajes:</strong> JavaScript, Python, Java, C#</li>
+  <li><strong>Lenguajes:</strong> JavaScript, Python</li>
   <li><strong>Backend:</strong> Node.js, Spring Boot</li>
   <li><strong>Frontend:</strong> HTML, CSS, SCSS</li>
   <li><strong>Base de Datos:</strong> SQL</li>
